@@ -1,0 +1,1 @@
+A collection of files that scrape the web for box scores and play by play data from the 2014 NFL season. Data is put into MongoDB collections.
